@@ -1,0 +1,7 @@
+/**
+ * Update all package.json dependency version automatically to latest version
+ */
+
+npm i -g npm-check-updates
+ncu -u or ncu -u --loglevel verbose --packageFile package.json
+npm install
