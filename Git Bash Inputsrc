@@ -1,3 +1,5 @@
+#http://brettterpstra.com/2015/07/09/shell-tricks-inputrc-binding-fun/
+
 # none, visible or audible
 set bell-style visible
 
