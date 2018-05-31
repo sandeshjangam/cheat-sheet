@@ -5,7 +5,8 @@
  * Replace it with file location `auto_prepend_file ="your-location\php\help-vl.php"`
  *
  *
- * /
+ */
+ 
 if ( ! function_exists( 'vl' ) ) :
     /**
      * Replacement for print_r & var_dump.
