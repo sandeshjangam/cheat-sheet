@@ -1,4 +1,5 @@
 #Requirements
+        - sudo apt-get install network-manager libnss3-tools jq xsel
 	- sudo apt install php-cli php-curl php-mbstring php-xml php-zip
 	- sudo apt install php-sqlite3 php-mysql php-pgsql
 	- sudo apt install composer
