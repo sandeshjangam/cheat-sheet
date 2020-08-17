@@ -1,0 +1,5 @@
+alias gst='git status'
+alias gci='git commit -m '
+alias gaa='git add .'
+alias gdf='git diff'
+alias gph='git push'
